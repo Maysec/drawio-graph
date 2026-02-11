@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 1 页" id="nQ-3R-S35fe0wT-cvVu3">
-    <mxGraphModel dx="1348" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="host" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=3;verticalAlign=top;fontStyle=1;fontSize=15;fontFamily=Times New Roman;spacingTop=8;fontColor=#333333;" value="宿主机 (VMware Workstation Pro)" vertex="1">
+        <mxCell id="host" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=3;verticalAlign=top;fontStyle=1;fontSize=15;fontFamily=Times New Roman;spacingTop=8;fontColor=#333333;glass=1;shadow=0;" value="宿主机 (VMware Workstation Pro)" vertex="1">
           <mxGeometry height="930" width="1480" x="60" y="30" as="geometry" />
         </mxCell>
         <mxCell id="vmnet1_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;strokeColor=#999999;strokeWidth=1.5;dashed=0;" value="" vertex="1">
